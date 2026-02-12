@@ -1,11 +1,10 @@
 ---
 name: customer-back-transformation
-description: Transform an internally-focused organization into a market-driven enterprise
-  by rebuilding from customer needs backward.
+description: Transform an internally-focused organization into a market-driven enterprise by rebuilding from customer needs backward.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - customer-back-transformation
 - escalation
