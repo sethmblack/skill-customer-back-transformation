@@ -3,7 +3,7 @@ name: customer-back-transformation
 description: Transform an internally-focused organization into a market-driven enterprise by rebuilding from customer needs backward.
 license: MIT
 metadata:
-  version: 1.0.3749
+  version: 1.0.3750
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
